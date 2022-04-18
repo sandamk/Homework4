@@ -1,0 +1,14 @@
+The Homework 4 assignment is done by Sai Keerthana Andam(sandam) and Rahul yadav Eddu(reddu)
+The assignment contributions are done 50% by Rahul yadav Eddu(reddu) and 50% by Sai Keerthana Andam(sandam)
+
+Rahul yadav eddu's(reddu) work:
+struct JOB(done by both)
+submithistory()
+startprocess()
+main function()(done by both)
+
+Sai Keerthana Andam's(sandam) work:
+struct JOB(done by both)
+void showjobs()
+void childhandler()
+main function()(done by both)
